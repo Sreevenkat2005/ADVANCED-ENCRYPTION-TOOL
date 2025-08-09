@@ -66,4 +66,8 @@ This tool offers a practical combination of **strong encryption** and **ease of 
 
 ---
 
+#Output
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b777ca48-c809-4ca9-8925-903f03e3667c" />
+
 
